@@ -1,4 +1,4 @@
-# Fortifying your Capital with Citadel
+# Citadel: Fortifying your Capital
 
 ## Overview and Origin
 
