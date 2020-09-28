@@ -2,41 +2,41 @@
 
 ## Overview and Origin
 
-Citadel and its various subsidiaries...
+Citadel LLC was founded with less than $5 million in 1990 as Citadel Investment Group, LLC by Kenneth Griffin, who began trading bonds while living on campus at Harvard. In 1994, the company’s name was changed to Citadel LLC.
 
-Citadel LLC was founded with less than $5 million in 1990 as Citadel Investment Group, LLC by Kenneth Griffin, who while living on campus at Harvard began trading bonds. In 1994 the company’s name was shortened to Citadel LLC, which makes the name stand out more.
-
-Citadel LLC is the parent organization of both Citadel and Citadel Securities. The company has been voted one of the top investment firms by companies including LinkedIn. Ben Bernanke serves in an executive-level advisory position. Using his considerable expertise as chairman of the Federal Reserve, 
+Citadel LLC is the parent organization of both Citadel and Citadel Securities. The company has been voted one of the top investment firms by companies including LinkedIn. Ben Bernanke offers his considerable expertise and an unusual amount of experience including serving as chairman of the Federal Reserve for eight years, under two presidents.
 
 ## Business Activities
 
-Citadel is an investment firm that seeks to maximize returns on invested capital. Clients are registered investors …
-
-Business activities include financial analysis, portfolio management, and high-speed trading.
-
-Assets under management total $35 billion in 2020.
-
-Largest designated market maker for the New York Stock Exchange (NYSE).
-
-### Business Structure
+Citadel is an investment firm that seeks to maximize returns on invested capital. Business activities include financial analysis, portfolio management, and high-speed trading. Assets under management total $35 billion in 2020, and the company is the largest designated market maker for the New York Stock Exchange.
 
 ### Capabilities
 
-Citadel Securities provides the following advantages:
+Citadel Securities provides notable advantages over its competitors, particularly superior market making, proprietary technology, and world-class employees.
+
+Proprietary automated trading capabilities form the backbone of their trading business. These include high frequency trading (HFT) technology.
+
+  - Optimizing order placement
 
 - Market making
-- Superior Trading platforms
+  - Liquidity
 
-- With exposure to a wide range of industries, they have an ability to gather information from business entities and … provides them with information that they would not have if engaged in a small number of markets and industries.
-- Remaining small allows greater flexibility in operations
-- Proprietary trading algorithms
-- Optimizing order placement
-- High-power executive team
+
+With exposure to a wide range of industries, Citadel has the ability to gather information from various business entities, which provides them with valuable market intelligence that is not publicly available or accessible.
+
+that they would not have otherwise.
+
+if engaged in a small number of markets and industries.
+
 - Relevant information from market making
-- Leading market maker in Canada
 
 - International trading as a designated market maker in the 35 countries including the U.S., Europe, Australia, and …
-- Liquidity
+- Leading market maker in Canada
+
+- Remaining small allows greater flexibility in operations
+
+- High-power executive team
+
 
 ### Technologies
 
