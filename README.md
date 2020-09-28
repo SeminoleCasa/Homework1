@@ -16,22 +16,9 @@ Citadel Securities provides notable advantages over its competitors, particularl
 
 Proprietary automated trading capabilities form the backbone of their trading business. These include high frequency trading (HFT) technology.
 
-  - Optimizing order placement
+With exposure to a wide range of industries, Citadel has the ability to gather information from various business entities, which provides them with valuable market intelligence that is not publicly available or otherwise accessible.
 
-- Market making
-  - Liquidity
-
-
-With exposure to a wide range of industries, Citadel has the ability to gather information from various business entities, which provides them with valuable market intelligence that is not publicly available or accessible.
-
-that they would not have otherwise.
-
-if engaged in a small number of markets and industries.
-
-- Relevant information from market making
-
-- International trading as a designated market maker in the 35 countries including the U.S., Europe, Australia, and …
-- Leading market maker in Canada
+Citadel is engaged in international trading and market making in over 35 countries including the U.S., Great Britain, Switzerland, Australia, China, and Canada (in which they are the largest market maker).
 
 - Remaining small allows greater flexibility in operations
 
@@ -58,7 +45,7 @@ Another example of a market maker is Robinhood, who is under investigation by th
 
 ## Recommendations
 
-There is little advice that can be given to Citadel, who is already engaged in the use of cutting-edge fintech products, including high-speed trading, market making, and asset management, all using proprietary algorithms. I think their business model is excellent, particularly the fact that they are not a publicly traded company. This allows them to avoid significant expenses related to compliance as well as prevents their proprietary business information from being accessible by the public, which includes their competitors.
+There is little advice that can be given to Citadel, who is already engaged in the use of cutting-edge fintech products, including high-speed trading, market making, and asset management, all using proprietary algorithms. I think their business model is excellent, particularly the fact that they are not a publicly traded company. This allows them to avoid significant expenses related to compliance as well as prevents their proprietary business information from being accessible by the public, which includes their competitors. By remaining private, relatively small, and nimble, Citadel is able to outmaneuver and outperform much larger companies that it competes with.
 
 Using the information that is available from internally available sources (various companies/connections? / business intelligence), they could expand into a more diverse field outside the traditional markets, such as commercial real estate development, providing analytics support, support for hospitals and other healthcare facilities, and large scale consulting work.
 
